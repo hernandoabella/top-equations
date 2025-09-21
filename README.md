@@ -1,5 +1,6 @@
 # top-equations
-🔢 General Math & Arithmetic
+
+## General Math & Arithmetic
 Modulo Operation Rules
 
 Integer Division and Remainders
@@ -20,7 +21,7 @@ Sum of Squares Formula
 
 Sum of Cubes Formula
 
-🔁 Loops & Recursion
+## Loops & Recursion
 Recursive Fibonacci Formula
 
 Recursive Factorial Formula
@@ -33,7 +34,7 @@ Memoization Recurrence Relation
 
 Tower of Hanoi Moves Formula
 
-📊 Algorithm & Big-O Complexity
+## Algorithm & Big-O Complexity
 Linear Search Time Complexity
 
 Binary Search Time Complexity
@@ -48,7 +49,7 @@ Dijkstra’s Algorithm Complexity
 
 Dynamic Programming Recurrence Relations
 
-🧠 Logic & Bit Manipulation
+## Logic & Bit Manipulation
 Bitwise AND/OR/XOR Formulas
 
 Left and Right Shift Bit Equations
@@ -63,7 +64,7 @@ Turn Off Rightmost 1-bit
 
 Check for Power of 2 Using Bitmask
 
-🧮 Geometry for Coders
+## Geometry for Coders
 Euclidean Distance Between Two Points
 
 Manhattan Distance
@@ -78,7 +79,7 @@ Slope of a Line
 
 Collision Detection (Circle vs. Circle / Rect vs. Rect)
 
-💻 Data Structures
+## Data Structures
 Heap Parent-Child Index Formula
 
 Hash Table Index Formula
@@ -93,7 +94,7 @@ Graph Adjacency Matrix Size
 
 Trie Space Complexity Estimation
 
-🕐 Time, Dates, and Timestamps
+## Time, Dates, and Timestamps
 Milliseconds to Seconds Conversion
 
 Seconds to HH:MM:SS Format
@@ -104,7 +105,7 @@ Days Between Two Dates Formula
 
 Timezone Offset Calculation
 
-📈 Machine Learning & Data Science
+## Machine Learning & Data Science
 Linear Regression Formula (y = mx + b)
 
 Gradient Descent Update Rule
@@ -119,7 +120,7 @@ Softmax Function
 
 Normalization Formula (Min-Max Scaling)
 
-🔐 Security, Hashing, and Compression
+## Security, Hashing, and Compression
 Simple Hash Function Formula
 
 Modular Exponentiation
@@ -134,7 +135,7 @@ Entropy Formula for Compression
 
 Checksum Calculation Formula
 
-🎮 Game Development / Physics
+## Game Development / Physics
 Frame Rate to Time Conversion
 
 Velocity and Position Update Formulas
@@ -149,7 +150,7 @@ Projectile Motion Equation
 
 Collision Detection Formula
 
-🧪 Probability & Statistics for Programmers
+## Probability & Statistics for Programmers
 Permutations and Combinations
 
 Probability of Event Occurring
@@ -162,7 +163,7 @@ Z-score Formula
 
 Expected Value Calculation
 
-🧬 Advanced & Miscellaneous
+## Advanced & Miscellaneous
 Regex Pattern Length Calculation
 
 Time Complexity Estimation Equation
